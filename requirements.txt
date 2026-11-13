@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
+requests
+beautifulsoup4
+reportlab
+pyarrow
